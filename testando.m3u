@@ -1,16 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://redetorrent.com/poster/2025/11/alem_mundo_2024_filmes_4k.webp" tvg-id="filme001" tvg-name="Duna: Parte 2" group-title="Filmes | Ação",Duna: Parte 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kDp1vUBnMfVATVUQcKkYI3n7sfM.jpg" group-title="Ação",Mad Max: Estrada da Fúria
 magnet:?xt=urn:btih:5e9fb47a7b34b96155d1654e7288ba944c1e37eb&dn=HIDRATORRENTS.ORG..MKV.Al%C3%A9m-mundo.2024.1080p.WEB-DL.x264.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9gk7adHYePKK2rVstlA4a3bgssD.jpg" group-title="Ficção Científica",A Origem
+http://seu-servidor.com/stream?magnet=MAGNET_LINK_DA_ORIGEM
 
-#EXTINF:-1 tvg-logo="http://SEU-SERVIDOR.COM/logos/3corpos.png" tvg-id="serie001" tvg-name="S01E01" group-title="Séries | Ficção Científica | O Problema dos 3 Corpos",O Problema dos 3 Corpos - S01E01
-http://SEU-SERVIDOR.COM/series/3corpos/s01e01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aVnBvjq0Cg0rBJkA3c2aLCE5JmS.jpg" group-title="Drama",O Poderoso Chefão
+http://seu-servidor.com/stream?magnet=MAGNET_LINK_DO_PODEROSO_CHEFAO
 
-#EXTINF:-1 tvg-logo="http://SEU-SERVIDOR.COM/logos/jujutsu.png" tvg-id="anime001" tvg-name="S01E01" group-title="Animes | Shonen | Jujutsu Kaisen",Jujutsu Kaisen - S01E01
-http://SEU-SERVIDOR.COM/animes/jujutsu/s01e01.mkv
-
-#EXTINF:-1 tvg-logo="http://SEU-SERVIDOR.COM/logos/onepiece.png" tvg-id="anime003" tvg-name="E1099" group-title="Animes | Shonen | One Piece",One Piece - E1099
-http://SEU-SERVIDOR.COM/animes/one_piece/e1099.mkv
-
-#EXTINF:-1 tvg-logo="http://SEU-SERVIDOR.COM/logos/shieldhero.png" tvg-id="anime005" tvg-name="S01E01" group-title="Animes | Isekai | O Herói do Escudo (Tate no Yuusha)",O Herói do Escudo - S01E01
-http://SEU-SERVIDOR.COM/animes/escudo/s01e01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A8NBNIbtiT105sIChmaw4eJvEa.jpg" group-title="Comédia",Superbad - É Hoje
+http://seu-servidor.com/stream?magnet=MAGNET_LINK_DO_SUPERBAD
