@@ -1,12 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kDp1vUBnMfVATVUQcKkYI3n7sfM.jpg" group-title="Ação",Mad Max: Estrada da Fúria
-magnet:?xt=urn:btih:5e9fb47a7b34b96155d1654e7288ba944c1e37eb&dn=HIDRATORRENTS.ORG..MKV.Al%C3%A9m-mundo.2024.1080p.WEB-DL.x264.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9gk7adHYePKK2rVstlA4a3bgssD.jpg" group-title="Ficção Científica",A Origem
-http://seu-servidor.com/stream?magnet=MAGNET_LINK_DA_ORIGEM
+# --- FILMES ---
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg",Frankenstein (2025))
+magnet:?xt=urn:btih:3ad48a39e69faa40a8c093c442108343eebc3958&dn=HIDRATORRENTS.ORG..MKV.Frankenstein.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://exemplo.com/capas/blade_runner.jpg",Blade Runner 2049 (2017)
+magnet:?xt=urn:btih:hash_do_torrent_aqui&dn=Blade+Runner+2049&tr=...
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aVnBvjq0Cg0rBJkA3c2aLCE5JmS.jpg" group-title="Drama",O Poderoso Chefão
-http://seu-servidor.com/stream?magnet=MAGNET_LINK_DO_PODEROSO_CHEFAO
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A8NBNIbtiT105sIChmaw4eJvEa.jpg" group-title="Comédia",Superbad - É Hoje
-http://seu-servidor.com/stream?magnet=MAGNET_LINK_DO_SUPERBAD
+# --- SÉRIE DE TV ---
+#EXTINF:-1 group-title="Série de Aventura" tvg-logo="https://exemplo.com/capas/serie_aventura_poster.jpg",Série de Aventura S01E01: Piloto
+magnet:?xt=urn:btih:hash_s1e1_aqui
+
+#EXTINF:-1 group-title="Série de Aventura" tvg-logo="https://exemplo.com/capas/serie_aventura_poster.jpg",Série de Aventura S01E02: Novo Mundo
+magnet:?xt=urn:btih:hash_s1e2_aqui
+
+
+# --- ANIME ---
+#EXTINF:-1 group-title="Anime de Luta" tvg-logo="https://exemplo.com/capas/anime_luta_poster.jpg",Anime de Luta S01E01: O Início da Jornada
+https://link-do-torrent/anime_e01.torrent
+
+#EXTINF:-1 group-title="Anime de Luta" tvg-logo="https://exemplo.com/capas/anime_luta_poster.jpg",Anime de Luta S01E02: O Treinamento
+https://link-do-torrent/anime_e02.torrent
